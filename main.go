@@ -17,4 +17,5 @@ func main() {
 
 func main() {
 	fmt.Println("vim-go")
+	fmt.Println("asdasd")
 }
